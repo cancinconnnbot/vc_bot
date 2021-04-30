@@ -22,10 +22,10 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Grup 💬", url="https://t.me/Saygisizlar"
+                        "Grup 💬", url="https://t.me/terminatorler"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/SaygisizlarMusic"
+                        "Kanal 📣", url="https://t.me/sonakalanlar"
                     )
                 ]
             ]
